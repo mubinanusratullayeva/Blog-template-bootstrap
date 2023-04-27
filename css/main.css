@@ -1,0 +1,11 @@
+.nav-burger{
+    border-bottom: 1px solid rgb(220, 220, 220); 
+}
+
+.large-title:hover{
+    text-decoration: none;
+}
+
+.card-bg{
+    background-image: url(../img/bg-gray-card.jpg);
+}
